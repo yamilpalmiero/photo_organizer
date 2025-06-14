@@ -10,7 +10,7 @@ Organiza tus fotos automáticamente en carpetas basadas en ubicación y fecha (m
 
 ## Instalación
 
-```
-bash
+```bash
 pip install -r requirements.txt
 python photo_organizer.py
+
